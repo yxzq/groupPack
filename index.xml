@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<matchineroot>
-  <m_project  AutoNum="01019103030000000000" pNode="long_gsm2_far.xml"></m_project>
-  <m_project  AutoNum="01019102030000000000" pNode="long_gsm2_near.xml"></m_project>
-  <m_project  AutoNum="0200DD03030600000000" pNode="LTE_15M_far.xml"></m_project>
-  <m_project  AutoNum="0200DD02030000000000" pNode="LTE_15M_near.xml"></m_project>
-</matchineroot>
-
-
