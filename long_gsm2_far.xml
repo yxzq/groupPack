@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<matchineroot nodetype="machine" deviceid="01" stationid="00000001" havetopo="1" beforecfg ="1" haveauto = "1" repeatername="远端机" repeatertype="龙飞GSM增强版" tellephone="135000857254" protocol="移动3G" AutoNum="01019103030000000000" pNode="gsm2">
+  <m_project nodetype="module" name="工程" address="ff"  pNode="long/module/gsm/far_engineer1.xml">
+
+  </m_project>
+
+  <m_cpu nodetype="module" name="MCU参数" power="1" address="00" pNode="long/module/gsm/far_mcu.xml">
+
+  </m_cpu>
+
+  <m_digital nodetype="module" name="数字模块" power="1" address="ef" pNode="long/module/gsm/far_digital2.xml">
+
+  </m_digital>
+
+  <m_rf nodetype="module" name="小信号模块" power="1" address="01" pNode="long/module/gsm/far_if.xml">
+  </m_rf>
+
+  <m_pa nodetype="module" name="功放板" power="1" onekeycfg="1" address="e3" pNode="long/module/gsm/pa2.xml" >
+
+  </m_pa>
+  
+
+</matchineroot>
+
+
